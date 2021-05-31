@@ -1,6 +1,6 @@
 $( function() {
 			
-	var endDate = "12  25, 2021 9:00:00";  // 到期时间
+	var endDate = "06  06, 2023 8:00:00";  // 到期时间
 
 	$('.countdown.styled').countdown({
 	  date: endDate,
